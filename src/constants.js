@@ -42,8 +42,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 // Education Section Logo's
 import jimsLogo from './assets/education_logo/Jims_Logo.png'
 import AnLogo from './assets/education_logo/An_Logo.jpeg'
-import bsaLogo from './assets/education_logo/bsa_logo.png';
-import vpsLogo from './assets/education_logo/vps_logo.png';
+import bsebLogo from './assets/education_logo/bseb_logo.jpg'
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
@@ -152,18 +151,18 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: newtonschoolLogo,
+      img: jimsLogo,
       role: "Placement Committee Member",
       company: "Jims College",
       date: "Feburary 2024 - May 2025",
-      desc: "Worked as a Frontend Developer Intern, designing and implementing scalable UI components and responsive websites using HTML, CSS, JavaScript, Bootstrap, and Material UI. Collaborated with the design team to translate wireframes and prototypes from Figma into interactive, user-friendly web pages.",
+      desc: "As a Placement Committee Member, I actively contributed to bridging the gap between students and recruiters. I was responsible for coordinating placement drives, managing communication between companies and students, and ensuring smooth execution of recruitment processes.",
       skills: [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Bootstrap",
-        "Figma",
-        "Material UI",
+        "Communication",
+        "Teamwork",
+        "Coordination",
+        "Leadership",
+        "Problem-Solving",
+        "Time Management",
       ],
     },
   ];
@@ -189,20 +188,20 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: vpsLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
-      date: "Apr 2017 - March 2018",
-      grade: "78%",
-      desc: "I completed my class 12 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
+      img: bsebLogo,
+      school: "Dr. P.N. Singh Inter college, Chhapra",
+      date: "Apr 2017 - March 2019",
+      grade: "56%",
+      desc: "I completed my class 12 education from Dr. P.N. Singh Inter college, Chhapra, under the BSEB board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
       degree: "CBSE(XII) - PCM with Computer Science",
     },
     {
       id: 3,
-      img: vpsLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
-      date: "Apr 2015 - March 2016",
-      grade: "87.5%",
-      desc: "I completed my class 10 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Science with Computer.",
+      img: bsebLogo,
+      school: "High School samardah, Siwan",
+      date: "Apr 2016 - March 2017",
+      grade: "66.8%",
+      desc: "I completed my class 10 education from High School samardah, Siwan, under the BSEB board, where I studied Science with Computer.",
       degree: "CBSE(X), Science with Computer Application",
     },
   ];

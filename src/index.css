@@ -13,12 +13,12 @@ html{
 /* curve line in below the skill section */
 @layer utilities{
     .clip-path-custom {
-        clip-path: polygon(0 0, 100% 0, 100% 98%, 75% 95%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 98%, 75% 97%, 0 100%);
     }
     .clip-path-custom-2 {
-        clip-path: polygon(0 0, 100% 0, 100% 98%, 25% 95%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 98%, 25% 97%, 0 100%);
     }
     .clip-path-custom-3 {
-        clip-path: polygon(0 0, 100% 0, 100% 98%, 75% 96%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 98%, 75% 98%, 0 100%);
     }
 }

@@ -66,7 +66,7 @@ function About() {
           </h3>
           {/* About me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            Frontend Developer with 1+ year of experience building scalable web and game
+            Software Developer with 1+ year of experience building scalable web and game
             applications using React.js, TypeScript, and modern JavaScript (ES6+).
             Skilled in component-based architecture, state management (Redux),
             and performance optimization. Experienced in developing responsive UI, 
